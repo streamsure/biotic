@@ -1,0 +1,23 @@
+{
+  "name": "biotic",
+  "version": "0.0.1",
+  "description": "biotic",
+  "keywords": [
+    "biotic"
+  ],
+  "author": {
+    "name": "streamsure/biotic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streamsure/biotic"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": false
+}
